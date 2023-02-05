@@ -81,12 +81,25 @@
   }
 
   .product{
-    
+    margin: 60px auto 20px auto;
+    display: grid;
     background-color: var(--clr-neutral-100);
     border-radius: 0.5rem;
     /*evita que la imagen salga del borde del div*/
     overflow: hidden;
+    /*anchura maxima para el componente a nivel general*/
+    max-width: 600px;
   }
+
+  
+
+  @media (min-width: 600px) {
+    .product {
+      grid-template-columns: 1fr 1fr;
+
+    }
+  }
+
 
   .product__content {
     display: grid;
@@ -126,6 +139,7 @@
     font-family: var(--ff-base);
     font-size: 0.8rem;
     text-decoration: line-through;
+
 }
 
 .button {
