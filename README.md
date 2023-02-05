@@ -4,8 +4,8 @@ Esta es mi solucion al reto de Frontend Mentor "Product preview card component" 
 Usamos tambien variables CSS para definir los colores y tamaños de las fuentes.
 
 
-- Solution URL: [Add solution URL here](https://github.com/diegofpp/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://diegofpp.github.io/product-preview-card-component-main/)
+- Solution URL: [https://github.com/diegofpp/product-preview-card-component-main]
+- Live Site URL: [https://diegofpp.github.io/product-preview-card-component-main/]
 
 
 ### Desarrollado con:
