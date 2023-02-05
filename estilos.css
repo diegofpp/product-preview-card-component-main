@@ -139,6 +139,7 @@
     font-family: var(--ff-base);
     font-size: 0.8rem;
     text-decoration: line-through;
+    align-items: center;
 
 }
 
